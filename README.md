@@ -1,5 +1,10 @@
-# hello
-<!---
-oliver194/oliver194 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align = "center">
+  - I'm oliver193
+</div>
+<div align = "center">
+  - My discord is <b>oliver193#8527</b>
+</div>
+<br>
+<div align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver194&theme=onedark&layout=compact">
+</div>
