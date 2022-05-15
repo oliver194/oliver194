@@ -31,10 +31,4 @@ curl "$latest_download_url" > $jar
 
 java -jar BuildTools.jar
 
-echo -n Do you agree to Mojang\'s EULA\? ; read -p " [Y/n] " answer
-case $answer in
-	[Nn]* ) eula=false; break;;
-	* ) eula=true;
-esac
-
-echo "eula=${eula}" > eula.txt
+## REMOVED EULA AGREEMENT
