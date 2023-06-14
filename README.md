@@ -2,7 +2,7 @@
   - I'm oliver193
 </div>
 <div align = "center">
-  - My discord is <b>oliver193#8527</b>
+  - My discord is <b>oliver193</b>
 </div>
 <br>
 <div align = "center">
